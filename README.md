@@ -1,4 +1,4 @@
-Easy Crop Image on python for Stable Diffusion trainer and more
+Easy Crop Image on python for Stable Diffusion trainer and more (now portable!)
 
 # CropImage
 Обрезает картинку курсором в заданной области. Простейший кропер для подготовки небольших датасетов для обучения нейросетей.
